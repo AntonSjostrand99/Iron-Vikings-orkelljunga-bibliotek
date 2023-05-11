@@ -20,6 +20,8 @@ Vi satt en del med att räkna ut hur lång tid alla olika user stories skulle ta
 Vi stötte på vårt andra problem idag då tanken va att sitta i skolan och jobba och få lite respons direkt i skolan på vårt arbete. 
 Men de blev igen då sjukdom i gruppen satte stopp för de och de blev att göra så gott vi kunde hemifrån istället.
 
+Tillslut så kunde vi åka in till skolan och få lite respons på vårt arbete så vi kunde fixa till de sista som vi var osäkra på så vi kunde fixa de och bli klara.
+
 
 
 
