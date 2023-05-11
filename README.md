@@ -7,7 +7,7 @@
 ### [Trello](https://trello.com/b/vMdYu8fw/ironvikings)
 
 
-## Dagbok
+## Dagboken
 
 Ett problem som vi stötte på var att namnge själva rollen i en user story men sen så kom vi på en bra namngivning tillslut, kan bli att vi ändrar de igen dock vem vet.
 Namngivning var också en het diskussion för oss också.
