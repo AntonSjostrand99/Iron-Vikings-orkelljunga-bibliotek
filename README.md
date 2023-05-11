@@ -21,8 +21,3 @@ Tillslut så kunde vi åka in till skolan och få lite respons på vårt arbete 
 
 
 
-## Vårat google dokument
-[Dokument](https://docs.google.com/document/d/1aVRjN0pHVLcREB2GtDlpPt4brY6-rPQ-WKAyhdoB7qs/edit?usp=sharing)
-
-
-
